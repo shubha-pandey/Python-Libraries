@@ -1,10 +1,8 @@
-# **📚 Learning Resources for Matplotlib**  
-  
-This repo contains my study notes, key concepts, useful resources, and cheat sheets that I have created or found useful while learning **Matplotlib**.  
+This repo folder contains my study notes, key concepts, useful resources, and cheat sheets that I have created or found useful while learning **Matplotlib**.  
 
 ---
 
-## **📌 What You'll Find in This Repository**
+## **📌 What You'll Find Here**
 ✔️ **Conceptual Notes** – Detailed explanations of important topics.  
 ✔️ **Code Snippets & Examples** – Practical implementations and hands-on exercises.  
 ✔️ **Cheat Sheets & Quick References** – Handy one-page summaries for quick revision.  
